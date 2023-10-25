@@ -131,3 +131,19 @@ form label span {
 
 
 /* breadcrumbs */
+.breadcrumbs {
+  max-width: 1200px;
+  margin: 20px auto;
+}
+.breadcrumbs > *{
+  display: inline-block;
+  margin-right: 10px;
+}
+.breadcrumbs .crumb:nth-last-child(n+2):after {
+  content: '>';
+  margin-left: 10px;
+}
+
+.breadcrumbs .crumb a {
+  color: #ddd;
+}
