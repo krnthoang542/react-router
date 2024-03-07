@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/krnthoang542.github.io/test-deploy/static/css/main.63399754.css",
-    "main.js": "/krnthoang542.github.io/test-deploy/static/js/main.f2661664.js",
-    "static/js/453.c349fb76.chunk.js": "/krnthoang542.github.io/test-deploy/static/js/453.c349fb76.chunk.js",
-    "index.html": "/krnthoang542.github.io/test-deploy/index.html",
-    "main.63399754.css.map": "/krnthoang542.github.io/test-deploy/static/css/main.63399754.css.map",
-    "main.f2661664.js.map": "/krnthoang542.github.io/test-deploy/static/js/main.f2661664.js.map",
-    "453.c349fb76.chunk.js.map": "/krnthoang542.github.io/test-deploy/static/js/453.c349fb76.chunk.js.map"
+    "main.css": "/krnthoang542.github.io/react-router/static/css/main.63399754.css",
+    "main.js": "/krnthoang542.github.io/react-router/static/js/main.cdd7519f.js",
+    "static/js/453.c349fb76.chunk.js": "/krnthoang542.github.io/react-router/static/js/453.c349fb76.chunk.js",
+    "index.html": "/krnthoang542.github.io/react-router/index.html",
+    "main.63399754.css.map": "/krnthoang542.github.io/react-router/static/css/main.63399754.css.map",
+    "main.cdd7519f.js.map": "/krnthoang542.github.io/react-router/static/js/main.cdd7519f.js.map",
+    "453.c349fb76.chunk.js.map": "/krnthoang542.github.io/react-router/static/js/453.c349fb76.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.63399754.css",
-    "static/js/main.f2661664.js"
+    "static/js/main.cdd7519f.js"
   ]
 }
