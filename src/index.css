@@ -17,14 +17,7 @@ body {
 p {
   margin: 20px 0;
 }
-button {
-  border: 0;
-  padding: 8px;
-  border-radius: 4px;
-  color: white;
-  background: var(--primary);
-  cursor: pointer;
-}
+
 
 /* navbar */
 header nav {
